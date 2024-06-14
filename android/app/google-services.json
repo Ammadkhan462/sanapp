@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496832788537",
+    "project_id": "video-editing-app-b4ded",
+    "storage_bucket": "video-editing-app-b4ded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496832788537:android:b805e3288f4ae3b86df5e8",
+        "android_client_info": {
+          "package_name": "com.sandapp.sandapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZjTV-p9CdaKQUEnrDx-B96xv1e6OschQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
